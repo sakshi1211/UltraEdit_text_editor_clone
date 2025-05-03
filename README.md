@@ -1,1 +1,1 @@
-# UltraEdit_text_editor_clone
+# UltraEdit text editor clone
